@@ -1,5 +1,3 @@
-
-### Project Description
 # Simple Python Web Browser
 This project is a **simple web browser application** built using Python, integrating **Tkinter** for the graphical user interface and **socket programming** for establishing communication between the client and server. The browser performs basic web-browsing functionalities such as **parsing user-provided URLs**, **sending HTTP requests**, and **rendering the HTML responses**.
 
